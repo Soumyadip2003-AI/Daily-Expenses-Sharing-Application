@@ -10,39 +10,39 @@ User Endpoints:-
 -------------------------
 create user database:-
 ---------------------------
-urlhttp://127.0.0.1:5000/Create user,(**method should be post**).
+url:http://127.0.0.1:5000/Create user,(**method should be post**).
 
 Retrieve User Details
 --------------------------
-urlhttp://127.0.0.1:5000/expense/user_id,(**method should be post**).
+url:http://127.0.0.1:5000/expense/user_id,(**method should be post**).
 
 Add Expense:-
 --------------------------
-urlhttp://127.0.0.1:5000/expense,(**method should be post**).
+url:http://127.0.0.1:5000/expense,(**method should be post**).
 
 Retrieve Individual User Expenses:-
 -------------------------------------
-urlhttp://127.0.0.1:5000/user_expenses/1,(**method should be get**).
+url:http://127.0.0.1:5000/user_expenses/1,(**method should be get**).
 
 Get Total Expenses:-
 ----------------------------------
-urlhttp://127.0.0.1:5000/total_expense(**method should be get**)
+url:http://127.0.0.1:5000/total_expense(**method should be get**)
 
 Download Balance Sheet:-
 -----------------------------------
-urlhttp://127.0.0.1:5000/download_expenses(**method should be get**).
+url:http://127.0.0.1:5000/download_expenses(**method should be get**).
 
 Split an Expense (Equal):-
 --------------------------------------
-urlhttp://127.0.0.1:5000/split_expense(**method should be get**).
+url:http://127.0.0.1:5000/split_expense(**method should be get**).
 
 Split an Expense (Exact):-
 --------------------------------------
-urlhttp://127.0.0.1:5000/split_expense(**method should be get**).
+url:http://127.0.0.1:5000/split_expense(**method should be get**).
 
 Split an Expense (Percentage):-
 ---------------------------------
-url:"http://127.0.0.1:5000/split_expense"(**method should be get**).
+url:http://127.0.0.1:5000/split_expense(**method should be get**).
 
 Instructions:
 ------------------
