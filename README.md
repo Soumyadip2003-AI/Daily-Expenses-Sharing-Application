@@ -10,23 +10,23 @@ User Endpoints:-
 -------------------------
 create user database:-
 ---------------------------
-url:http://127.0.0.1:5000/Create user,(**method should be post**).
+url:http://127.0.0.1:5000/Create user (**method should be post**).
 
 Retrieve User Details
 --------------------------
-url:http://127.0.0.1:5000/expense/user_id,(**method should be post**).
+url:http://127.0.0.1:5000/expense/user_id (**method should be post**).
 
 Add Expense:-
 --------------------------
-url:http://127.0.0.1:5000/expense,(**method should be post**).
+url:http://127.0.0.1:5000/expense (**method should be post**).
 
 Retrieve Individual User Expenses:-
 -------------------------------------
-url:http://127.0.0.1:5000/user_expenses/1,(**method should be get**).
+url:http://127.0.0.1:5000/user_expenses/1 (**method should be get**).
 
 Get Total Expenses:-
 ----------------------------------
-url:http://127.0.0.1:5000/total_expense(**method should be get**)
+url:http://127.0.0.1:5000/total_expense (**method should be get**)
 
 Download Balance Sheet:-
 -----------------------------------
